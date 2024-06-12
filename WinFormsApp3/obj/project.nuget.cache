@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oj+w+KIFyvwYq+QzhEtHdF7PDp0EX8tDdEE7jtFf05/YzOORcWwSaDbYBUuA/cB2smsceRbbKTqDSewyjwqJWg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\mihai\\Downloads\\Telegram Desktop\\WinFormsApp3\\WinFormsApp3\\WinFormsApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\mihai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
